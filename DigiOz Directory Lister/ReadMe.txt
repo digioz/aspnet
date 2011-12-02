@@ -7,5 +7,5 @@ Installation:
 
 1. Copy the "DigiOz Directory Lister" folder to your Web Server.
 2. Open the file "Web.config", and modify the key "FilePath" to the full path of the directory that you wish to list using a simple text editor. 
-3. Sale "web.config", and navigate to the directory lister URL in the format http://www.[Your Domain Name.com]/[Path To Dir Lister]/DirectoryLister.aspx
+3. Save "web.config", and navigate to the directory lister URL in the format http://www.[Your Domain Name.com]/[Path To Dir Lister]/DirectoryLister.aspx
 
